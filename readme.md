@@ -106,10 +106,8 @@ Masuk ke folder project:
 cd lost-saga-hero-editor
 ```
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/66f1615d-ca7b-4ca6-ade7-c384230a1b97" />
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a6d2b951-2afa-48f5-86eb-40f4305d5ab7" />
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/28e291f4-7fff-4a14-8e10-c5b91340bf14" />
-
 
 > Sesuaikan nama folder dengan repository yang digunakan.
 
