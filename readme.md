@@ -137,14 +137,13 @@ Jangan menghapus folder `node_modules` jika ingin langsung menjalankan program t
 Struktur dasar project:
 
 ```text
-HeroEditor/
+folderLS/LostSagaOrigin/save/username+ID/
 │
 ├── run.js
 ├── package.json
 ├── package-lock.json
 ├── config.json
 ├── hero_cache.json
-├── offline_save.db
 │
 └── node_modules/
 ```
