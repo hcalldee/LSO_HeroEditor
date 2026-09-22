@@ -1,0 +1,6 @@
+{
+    "database": "./offline_save.db",
+    "user_id": "kpopdewapID",
+    "backup": true,
+    "hero_cache": "./hero_cache.json"
+}
